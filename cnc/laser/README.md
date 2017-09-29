@@ -1,6 +1,6 @@
 # Laser Cutting
 
-## 30W CO² laser (Epilog Fusion)
+## 30W CO₂ laser (Epilog Fusion)
 
 ### Materials
 
